@@ -23,7 +23,7 @@ public class SendEmail {
 		// set the alternative message
 		// email.setTextMsg("This is a link:
 		// http://pushpalankajaya.blogspot.com");
-		email.addTo("manoj.kumar.gudala@gmail.com");
+		email.addTo("shafikshafik@gmail.com");
 		email.send();
 	}
 
